@@ -13,7 +13,6 @@ services.</h4>
 
 - 🔭  I’m currently working as a **Mobile Application Developer**.
 - 🌱 I’m currently learning **Advanced Flutter Topics**. 
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about **Flutter**.
 - 📫 How to reach me: **mohamednasser12315@gmail.com**
 
