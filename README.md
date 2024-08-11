@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/mohamed-nasser-443176227/" target="blank">
 Mohamed Nasser</a></h1>
-<h3 align="center">A passionate Mobile App developer from Egypt &#x1F1EA;&#x1F1EC;</h3>
+<h3>A passionate Mobile App developer from Egypt &#x1F1EA;&#x1F1EC;</h3>
 <h4>Flutter Developer with 2 years of experience in creating and developing mobile applications. Proven track
 record in improving user engagement and revenue growth through optimized performance, and third-party
 services.</h4> 
